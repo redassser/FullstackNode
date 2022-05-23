@@ -4,5 +4,8 @@
   "description": "Learning the ropes",
   "main": "index.js",
   "author": "pie",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
