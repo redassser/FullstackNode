@@ -1,0 +1,8 @@
+{
+  "name": "fullstacknode",
+  "version": "1.0.0",
+  "description": "Learning the ropes",
+  "main": "index.js",
+  "author": "pie",
+  "license": "ISC"
+}
